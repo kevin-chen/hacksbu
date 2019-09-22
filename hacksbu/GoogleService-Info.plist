@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>757441746750-vuoiqqg4gsokups43j6s1va8curbg4lb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.757441746750-vuoiqqg4gsokups43j6s1va8curbg4lb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJUSijjttqp2TtQ6Kf5ZF47m_32rfKtMs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>757441746750</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.nyu.cs.kc3585.hacksbu</string>
+	<key>PROJECT_ID</key>
+	<string>hacksbu1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hacksbu1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:757441746750:ios:9b94023521f2220e947e6f</string>
+	<key>DATABASE_URL</key>
+	<string>https://hacksbu1.firebaseio.com</string>
+</dict>
+</plist>

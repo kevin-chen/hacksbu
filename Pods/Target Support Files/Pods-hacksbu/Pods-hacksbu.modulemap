@@ -1,0 +1,6 @@
+framework module Pods_hacksbu {
+  umbrella header "Pods-hacksbu-umbrella.h"
+
+  export *
+  module * { export * }
+}
